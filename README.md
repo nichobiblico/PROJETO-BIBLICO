@@ -1,6 +1,6 @@
-# Criando com Fé / Cantinho Bíblico 💛
+# Cantinho Bíblico 💛
 
-Projeto recriado com fidelidade visual e funcional absoluta (1:1) baseado no portal [criando-com-fe.lovable.app](https://criando-com-fe.lovable.app/).
+Landing page profissional para infoprodutos infantis cristãos, com design responsivo, animações dinâmicas e foco em conversão.
 
 ---
 

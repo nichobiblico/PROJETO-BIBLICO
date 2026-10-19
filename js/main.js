@@ -1,5 +1,5 @@
 /**
- * Criando com Fé / Cantinho Bíblico - Main Application Logic
+ * Cantinho Bíblico - Main Application Logic
  * 
  * Customize your links and information below:
  */
