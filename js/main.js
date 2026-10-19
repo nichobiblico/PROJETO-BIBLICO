@@ -7,10 +7,10 @@ const CONFIG = {
   // URLs dos Produtos / Checkout (ex: Kiwify, Hotmart, Eduzz, etc)
   products: {
     almanaque: {
-      url: "https://alma-landing-pages.lovable.app/", // Troque pelo seu link de checkout / página
+      url: "https://pay.comprasegurashop.top/checkout/500-atividades",
     },
     packJogos: {
-      url: "https://pixel-perfect-display-8331.lovable.app/", // Troque pelo seu link de checkout / página
+      url: "https://pay.comprasegurashop.top/checkout/jogos-biblicos",
     }
   },
 
